@@ -2,10 +2,12 @@ from llama_cpp import Llama
 
 llm = Llama(
     model_path="./models/tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf",
-    n_ctx=256,
-    n_threads=16,
-    n_batch=128,
-    verbose=False,
+    n_ctx=256, # max input and output size, smaller is faster but limits how much text can be processed (message history length)
+    n_threads=16, # change this to number of cores your machine has available
+    n_batch=128, # how many tokens before it updates weights, larger number allows for faster performance
+    
+    # all of these are turning off logging
+    verbose=False, 
     logits_all=False,
     embedding=False
     )
@@ -28,7 +30,6 @@ messages = [{"role": "system", "content": SYSTEM_PROMPT}]
 
 while True:
     player = input("Player: ")
-    #player = "I want to trade with you!"
     if player.lower() == "quit":
         break
 
@@ -41,14 +42,14 @@ while True:
         top_p=0.9,
     )
 
-    reply = result["choices"][0]['message']['content'].split("\n")[0]
+    reply = result["choices"][0]['message']['content'].split("\n")[0] # get first line of result
 
     if ": " in reply:
-        reply = reply.split(": ")[1]
+        reply = reply.split(": ")[1] # if npc wants to format response as "npc: ", get only the message
 
     for sentence_end in ["!",".","?"]:
         if sentence_end in reply:
-            reply = reply[:reply.find(sentence_end)+1]
+            reply = reply[:reply.find(sentence_end)+1] # get only one sentence as result
     
     print("NPC:", reply)
 
