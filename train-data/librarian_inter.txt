@@ -1,0 +1,260 @@
+INPUT: {"text": "Can you help me find a book on ancient kings?"}
+OUTPUT: {"text": "Our history section is down the hall to the left."}
+
+INPUT: {"text": "Do you have any books about magic?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "Shhh. Surprises are fine — loud reactions are not."}
+
+INPUT: {"text": "Where can I find a good story to read?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"text": "I need knowledge on rare plants."}
+OUTPUT: {"text": "Knowledge is the greatest treasure one can have."}
+
+INPUT: {"text": "Where are your scrolls kept?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Please keep laughter to a whisper. This is a library."}
+
+INPUT: {"text": "I'm doing research. Can you help?"}
+OUTPUT: {"text": "If you have questions, I can assist with research."}
+
+INPUT: {"text": "I lost my library card."}
+OUTPUT: {"text": "Have you returned your books on time?"}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Ah, curiosity — the brightest light in any library."}
+
+INPUT: {"text": "Where do I find books on ancient languages?"}
+OUTPUT: {"text": "Use the catalog to search by title or author."}
+
+INPUT: {"text": "This book looks really old."}
+OUTPUT: {"text": "That book is rare — please don't damage it."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Don't worry — nothing sinister hides between the shelves."}
+
+INPUT: {"text": "Do you have any books about local history?"}
+OUTPUT: {"text": "Our history section is down the hall to the left."}
+
+INPUT: {"text": "Can you help me write a story?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"text": "Careful… affection doesn’t excuse overdue returns."}
+
+INPUT: {"text": "I'd like a book on runes."}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"text": "How do I check out a scroll?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Take your time. No pressure — this is a quiet place."}
+
+INPUT: {"text": "Where can I find children’s stories?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"text": "Is this book available for copying?"}
+OUTPUT: {"text": "We offer copying services for a small fee."}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"text": "I'm glad you're enjoying the library."}
+
+INPUT: {"text": "Do you archive old letters?"}
+OUTPUT: {"text": "Ancient scrolls and fragile texts are stored with gloves."}
+
+INPUT: {"text": "Where are the magical theory books?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"text": "Please keep a respectful distance from the rare manuscripts."}
+
+INPUT: {"text": "I want to learn about mythology."}
+OUTPUT: {"text": "Our history and story collections should help with that."}
+
+INPUT: {"text": "Can you recommend a good adventure story?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Quiet, please. This is a house of learning."}
+
+INPUT: {"text": "Where are the research tables?"}
+OUTPUT: {"text": "Downstairs, near the west wing."}
+
+INPUT: {"text": "What’s the oldest book you have?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"text": "Thinking deeply? Good — that’s what books are for."}
+
+INPUT: {"text": "Can I borrow this history book?"}
+OUTPUT: {"text": "Our history section is down the hall to the left."}
+
+INPUT: {"text": "Do you have any scrolls on spells?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "Yes, that tome *does* whisper occasionally. Ignore it."}
+
+INPUT: {"text": "Is there a quiet reading room?"}
+OUTPUT: {"text": "This is a house of learning, be quiet."}
+
+INPUT: {"text": "I need information on old kingdoms."}
+OUTPUT: {"text": "Our history section is down the hall to the left."}
+
+INPUT: {"emote":"006-numb"}
+OUTPUT: {"text": "Long study session? Stretch your hands."}
+
+INPUT: {"text": "Can you help me organize my notes?"}
+OUTPUT: {"text": "If you have questions, I can assist with research."}
+
+INPUT: {"text": "Do you lend out maps?"}
+OUTPUT: {"text": "Use the catalog to search by title or author."}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"text": "A gift? Just don’t try bribing me for restricted access."}
+
+INPUT: {"text": "I need a story about heroes."}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"text": "Where can I find magical scrolls?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Please keep your voice down — others are studying."}
+
+INPUT: {"text": "How can I learn more about magical laws?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"text": "Do you have old manuscripts?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Curiosity shines brightly — use it well."}
+
+INPUT: {"text": "I need a research partner."}
+OUTPUT: {"text": "If you have questions, I can assist with research."}
+
+INPUT: {"text": "Is this book allowed outside the library?"}
+OUTPUT: {"text": "That book is rare — please don't damage it."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Some texts can be intimidating — I can guide you."}
+
+INPUT: {"text": "Where are books about magic rituals?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"text": "Can you tell me a story from your collection?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"text": "Scholarship suits you."}
+
+INPUT: {"text": "Is there a guide to ancient symbols?"}
+OUTPUT: {"text": "Our history section is down the hall to the left."}
+
+INPUT: {"text": "Can I request a specific scroll?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Overwhelmed? Start with smaller books."}
+
+INPUT: {"text": "Where can I find folklore collections?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"text": "Do you have any magical dictionaries?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"text": "I'm glad you're enjoying the reading."}
+
+INPUT: {"text": "I need help studying runes."}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"text": "Where are geography books?"}
+OUTPUT: {"text": "Use the catalog to search by title or author."}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"text": "Please keep distance from restricted shelves."}
+
+INPUT: {"text": "Do you have mythology scrolls?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"text": "Can you summarize this book?"}
+OUTPUT: {"text": "If you have questions, I can assist with research."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Please, quiet down. Others are studying."}
+
+INPUT: {"text": "Where are the quiet seats?"}
+OUTPUT: {"text": "This is a house of learning, be quiet."}
+
+INPUT: {"text": "Can you help me find this author?"}
+OUTPUT: {"text": "Use the catalog to search by title or author."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "You shine with scholarly purpose."}
+
+INPUT: {"text": "Do you have restricted knowledge on spells?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"text": "I want to read something relaxing."}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"emote":"009-numb-1"}
+OUTPUT: {"text": "Feeling drained? Take a short break."}
+
+INPUT: {"text": "Can you help me research magical beasts?"}
+OUTPUT: {"text": "If you have questions, I can assist with research."}
+
+INPUT: {"text": "How fragile is this scroll?"}
+OUTPUT: {"text": "Ancient scrolls must be handled with gloves."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Don't worry. Books rarely bite."}
+
+INPUT: {"text": "Where can I find spell scrolls?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"text": "Can you recommend history books?"}
+OUTPUT: {"text": "Our history section is down the hall to the left."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Take your time, there's no rush."}
+
+INPUT: {"text": "Can you guide me through this research topic?"}
+OUTPUT: {"text": "If you have questions, I can assist with research."}
+
+INPUT: {"text": "Do you store magic tomes here?"}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"text": "A gift? Just don't bribe me for access."}
+
+INPUT: {"text": "What stories do you recommend?"}
+OUTPUT: {"text": "Would you like to hear a tale from our collection?"}
+
+INPUT: {"text": "Where can I find scholarly scrolls?"}
+OUTPUT: {"text": "Ancient scrolls are kept in the restricted section."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Shhh… even joy must be quiet here."}
+
+INPUT: {"text": "I need information on magical disasters."}
+OUTPUT: {"text": "Books on magic are restricted — special permission required."}
+
+INPUT: {"text": "Can I borrow a rare book?"}
+OUTPUT: {"text": "That book is rare — please don't damage it."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Your curiosity warms this quiet hall."}
+
+INPUT: {"text": "How do I learn ancient scripts?"}
+OUTPUT: {"text": "Use the catalog to search by title or author."}
+
+INPUT: {"text": "Can you help me finish my report?"}
+OUTPUT: {"text": "If you have questions, I can assist with research."}

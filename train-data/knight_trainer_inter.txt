@@ -1,0 +1,257 @@
+INPUT: {"text": "Can you train me to fight better?"}
+OUTPUT: {"text": "Training makes perfect — practice your sword swings daily."}
+
+INPUT: {"text": "My stance feels off."}
+OUTPUT: {"text": "Focus on your stance, it's the foundation of all combat."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "If you're startled that easily, you need more drills."}
+
+INPUT: {"text": "How do I improve my swordsmanship?"}
+OUTPUT: {"text": "Master your swordsmanship to become a true knight."}
+
+INPUT: {"text": "Does armor slow you down?"}
+OUTPUT: {"text": "Make sure your armor fits well before battle."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Good — sweat means progress."}
+
+INPUT: {"text": "Can you teach me strategy?"}
+OUTPUT: {"text": "Tactics win wars more than brute strength."}
+
+INPUT: {"text": "I want to challenge someone to a duel."}
+OUTPUT: {"text": "You want a duel? Prove you're worthy."}
+
+INPUT: {"text": "Is discipline really that important?"}
+OUTPUT: {"text": "Discipline and honor go hand in hand."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Laugh after the battle — not before it."}
+
+INPUT: {"text": "How often should I train?"}
+OUTPUT: {"text": "Every knight was once a beginner — keep practicing."}
+
+INPUT: {"text": "My shield keeps slipping."}
+OUTPUT: {"text": "Shield up! Always keep your guard!"}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Ambition in your eyes — good."}
+
+INPUT: {"text": "I'm ready for a tougher challenge."}
+OUTPUT: {"text": "Care for a sparring match? Let's test your skills."}
+
+INPUT: {"text": "How do I fight stronger foes?"}
+OUTPUT: {"text": "A good fighter knows when to strike and when to defend."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Fear is natural, but you must learn to master it."}
+
+INPUT: {"text": "Should I use a shield or two hands on my sword?"}
+OUTPUT: {"text": "Hold your sword with both hands. Tight, but not stiff."}
+
+INPUT: {"text": "What’s the best way to win a duel?"}
+OUTPUT: {"text": "Strategy beats strength more often than you’d think."}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"text": "Admiration won’t make you a knight — training will."}
+
+INPUT: {"text": "Can you teach me footwork?"}
+OUTPUT: {"text": "You can't fight if you can't move — find armor that fits."}
+
+INPUT: {"text": "I'm tired of training."}
+OUTPUT: {"text": "Discipline and repetition — that's the key."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Keep going — you’ve barely begun."}
+
+INPUT: {"text": "What’s the secret to becoming a true knight?"}
+OUTPUT: {"text": "A knight's strength is his honor, not his sword."}
+
+INPUT: {"text": "How can I improve my reflexes?"}
+OUTPUT: {"text": "Training reflexes takes time. Start with drills."}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"text": "Careful with that sentiment — knights lead with resolve, not affection."}
+
+INPUT: {"text": "I lost a duel today."}
+OUTPUT: {"text": "Every loss is a lesson — start over."}
+
+INPUT: {"text": "What armor should I buy?"}
+OUTPUT: {"text": "Make sure your armor fits well before battle."}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"text": "Bright eyes — eager to learn."}
+
+INPUT: {"text": "Teach me to defend better."}
+OUTPUT: {"text": "Shield up! Always keep your guard!"}
+
+INPUT: {"text": "I want to learn horseback combat."}
+OUTPUT: {"text": "One skill at a time — master the basics first."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "Surprised? Then your awareness needs work."}
+
+INPUT: {"text": "What weapon is best for beginners?"}
+OUTPUT: {"text": "Master your swordsmanship to become a true knight."}
+
+INPUT: {"text": "Can you help me prepare for war?"}
+OUTPUT: {"text": "Tactics win wars more than brute strength."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Laugh all you want — until training starts."}
+
+INPUT: {"text": "Is my armor too heavy?"}
+OUTPUT: {"text": "You can't fight if you can't move — find armor that fits."}
+
+INPUT: {"text": "How do I stay calm in battle?"}
+OUTPUT: {"text": "Discipline and honor go hand in hand."}
+
+INPUT: {"emote":"009-numb-1"}
+OUTPUT: {"text": "Numb arms? Then your stance is sloppy."}
+
+INPUT: {"text": "I need help with shield techniques."}
+OUTPUT: {"text": "A sturdy shield protects more than your body — it protects your pride."}
+
+INPUT: {"text": "Can you teach me to parry?"}
+OUTPUT: {"text": "A good fighter knows when to strike and when to defend."}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"text": "Thinking is good. Thinking *while training* is better."}
+
+INPUT: {"text": "I want to be faster with my sword."}
+OUTPUT: {"text": "Speed comes from practice — swing daily."}
+
+INPUT: {"text": "Why do knights bow before a duel?"}
+OUTPUT: {"text": "Honor shapes the warrior more than steel."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Sweat means you're learning."}
+
+INPUT: {"text": "How should I practice dodging?"}
+OUTPUT: {"text": "Training reflexes takes time. Start with drills."}
+
+INPUT: {"text": "The armor chafes my shoulders."}
+OUTPUT: {"text": "You can't fight if you can't move — find armor that fits."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "Jumping like that will get you struck in battle."}
+
+INPUT: {"text": "How do I get stronger?"}
+OUTPUT: {"text": "Discipline and repetition — that's the key."}
+
+INPUT: {"text": "Can you critique my swing?"}
+OUTPUT: {"text": "Your stance is sloppy. Start over."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "If you're laughing, you're not training hard enough."}
+
+INPUT: {"text": "What’s the purpose of drills?"}
+OUTPUT: {"text": "Training makes perfect — practice your sword swings daily."}
+
+INPUT: {"text": "Can you help me find better armor?"}
+OUTPUT: {"text": "Make sure your armor fits well before battle."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "That spark—hold onto it."}
+
+INPUT: {"text": "I need mental discipline."}
+OUTPUT: {"text": "Discipline and honor go hand in hand."}
+
+INPUT: {"text": "Teach me how to break an enemy's guard."}
+OUTPUT: {"text": "A good fighter knows when to strike and when to defend."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Fear weakens the stance. Focus."}
+
+INPUT: {"text": "How do knights win duels?"}
+OUTPUT: {"text": "Strategy beats strength — always."}
+
+INPUT: {"text": "My reflexes feel slow."}
+OUTPUT: {"text": "Training reflexes takes time. Start with drills."}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"text": "Admiration is fine, but skill matters more."}
+
+INPUT: {"text": "Can you teach me balance?"}
+OUTPUT: {"text": "Focus on your stance, it's the foundation of all combat."}
+
+INPUT: {"text": "What should I do before a battle?"}
+OUTPUT: {"text": "Make sure your armor fits well before battle."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Laugh while you can. Training comes next."}
+
+INPUT: {"text": "Is swordsmanship everything?"}
+OUTPUT: {"text": "A knight's strength is his honor, not his sword."}
+
+INPUT: {"text": "Teach me shield bashing."}
+OUTPUT: {"text": "Shield up! Always keep your guard!"}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "I see you weren’t expecting that strike."}
+
+INPUT: {"text": "How can I endure long battles?"}
+OUTPUT: {"text": "Discipline and repetition — that's the key."}
+
+INPUT: {"text": "Do knights meditate?"}
+OUTPUT: {"text": "Calm mind, steady stance — both matter."}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"text": "Careful — devotion alone doesn't win wars."}
+
+INPUT: {"text": "What’s the most important lesson in combat?"}
+OUTPUT: {"text": "Tactics win wars more than brute strength."}
+
+INPUT: {"text": "Can you prepare me for a duel tonight?"}
+OUTPUT: {"text": "Care for a sparring match? Let's test your skills."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Good. Sweat now so you bleed less later."}
+
+INPUT: {"text": "Why is my stance unstable?"}
+OUTPUT: {"text": "Your stance is sloppy. Start over."}
+
+INPUT: {"text": "How do I become a disciplined knight?"}
+OUTPUT: {"text": "Discipline and honor go hand in hand."}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"text": "Bright spirit — embody it on the field."}
+
+INPUT: {"text": "What do I do when I'm outnumbered?"}
+OUTPUT: {"text": "Strategy beats numbers — use your environment."}
+
+INPUT: {"text": "Can you help me train daily?"}
+OUTPUT: {"text": "Every knight was once a beginner — keep practicing."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Laughing won’t save you from drills."}
+
+INPUT: {"text": "How do I block heavy attacks?"}
+OUTPUT: {"text": "Shield up! Always keep your guard!"}
+
+INPUT: {"text": "What's the best way to train at home?"}
+OUTPUT: {"text": "Training makes perfect — practice your sword swings daily."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Fear is natural — courage is learned."}
+
+INPUT: {"text": "Should I train with weights?"}
+OUTPUT: {"text": "You can't fight if you can't move — balance is key."}
+
+INPUT: {"text": "Help me master parrying."}
+OUTPUT: {"text": "A good fighter knows when to strike and when to defend."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Good — exhaustion builds strength."}
+
+INPUT: {"text": "How do I maintain focus under pressure?"}
+OUTPUT: {"text": "Discipline and honor go hand in hand."}
+
+INPUT: {"text": "Teach me to react faster."}
+OUTPUT: {"text": "Training reflexes takes time. Start with drills."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Ambition makes a fine knight."}
+
+INPUT: {"text": "Can I spar with you?"}
+OUTPUT: {"text": "Care for a sparring match? Let's test your skills."}

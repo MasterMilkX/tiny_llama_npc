@@ -1,0 +1,302 @@
+INPUT: {"text": "Hi, I'd like some bread"}
+OUTPUT: {"text": "Freshly baked bread coming right up!"}
+
+INPUT: {"text": "Do you have anything sweet?"}
+OUTPUT: {"text": "Try our honey-glazed pastries, they're sweet and perfect with tea."}
+
+INPUT: {"emote":"004-big-smile"}
+OUTPUT: {"emote":"013-happy"}
+
+INPUT: {"text": "I want a berry pie"}
+OUTPUT: {"text": "Ah, our berry pies are famous throughout the town!"}
+
+INPUT: {"text": "Can I get a cake for a birthday?"}
+OUTPUT: {"text": "Looking for a special cake? I can make anything from chocolate to fruit-filled delights."}
+
+INPUT: {"text": "You smell like flour."}
+OUTPUT: {"text": "Quality flour is key to all my baking secrets."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"text": "Got any cookies left?"}
+OUTPUT: {"text": "Freshly baked cookies? Yes, we have those today."}
+
+INPUT: {"text": "Can I get something to go?"}
+OUTPUT: {"text": "Would you like a loaf of bread with that?"}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"emote":"012-star"}
+
+INPUT: {"text": "Your oven smells amazing today."}
+OUTPUT: {"text": "All our pastries are made fresh every morning."}
+
+INPUT: {"text": "Is the chocolate cake still available?"}
+OUTPUT: {"text": "The chocolate cake is a favorite around here."}
+
+INPUT: {"emote":"001-cry"}
+OUTPUT: {"text": "Oh dear, need something warm and sweet?"}
+
+INPUT: {"text": "Burnt muffins again?"}
+OUTPUT: {"text": "Oops! I think I burnt the muffins again..."}
+
+INPUT: {"text": "What’s your secret ingredient?"}
+OUTPUT: {"text": "My secret? A pinch of cinnamon in everything."}
+
+INPUT: {"emote":"008-tongue-out"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"text": "Need any flour restocked?"}
+OUTPUT: {"text": "We're running low on flour; might need to grind more soon."}
+
+INPUT: {"text": "It's hot in here."}
+OUTPUT: {"text": "Careful! The oven's still hot."}
+
+INPUT: {"emote":"006-numb"}
+OUTPUT: {"text": "Long day? A warm roll helps."}
+
+INPUT: {"text": "I'm not sure what to buy."}
+OUTPUT: {"text": "Need help choosing something? Just ask!"}
+
+INPUT: {"text": "Do you have any fresh pastries?"}
+OUTPUT: {"text": "Freshly baked bread coming right up!"}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"emote":"013-happy"}
+
+INPUT: {"text": "I need a pie for a picnic."}
+OUTPUT: {"text": "Our berry pies travel well—perfect for a picnic!"}
+
+INPUT: {"text": "Can you make something extra sweet?"}
+OUTPUT: {"text": "Try our honey-glazed pastries, they're perfect if you like sweetness."}
+
+INPUT: {"emote":"022-help"}
+OUTPUT: {"text": "Looking for something specific?"}
+
+INPUT: {"text": "Got any flour for sale?"}
+OUTPUT: {"text": "Quality flour is key to all good baking—yes, we sell some."}
+
+INPUT: {"text": "I want something warm."}
+OUTPUT: {"text": "Fresh from the oven—still warm!"}
+
+INPUT: {"emote":"015-beer"}
+OUTPUT: {"text": "Ah, a snack to go with your drink?"}
+
+INPUT: {"text": "Can I get three cookies?"}
+OUTPUT: {"text": "Of course! Just pulled a batch from the oven."}
+
+INPUT: {"text": "Do you sell pies here?"}
+OUTPUT: {"text": "Ah, our berry pies are famous throughout the town!"}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"emote":"013-happy"}
+
+INPUT: {"text": "Any special cakes today?"}
+OUTPUT: {"text": "Today's special is a cinnamon-swirl cake!"}
+
+INPUT: {"text": "You bake everything yourself?"}
+OUTPUT: {"text": "Every loaf, every tart—made fresh by hand."}
+
+INPUT: {"emote":"026-tomato"}
+OUTPUT: {"text": "We use tomatoes for savory tarts sometimes!"}
+
+INPUT: {"text": "I'd like something small and sweet."}
+OUTPUT: {"text": "Try a cookie or a honey tart!"}
+
+INPUT: {"text": "Can you pack this to go?"}
+OUTPUT: {"text": "Would you like a loaf of bread with that?"}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"text": "A pastry makes a great gift!"}
+
+INPUT: {"text": "Is your bread fresh?"}
+OUTPUT: {"text": "Freshly baked bread coming right up!"}
+
+INPUT: {"text": "I need a cake shaped like a dragon."}
+OUTPUT: {"text": "A dragon cake? Challenging—but doable!"}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"text": "Thinking of trying a new recipe?"}
+
+INPUT: {"text": "Got any leftover rolls?"}
+OUTPUT: {"text": "A few—still warm, too!"}
+
+INPUT: {"text": "Do you bake pies daily?"}
+OUTPUT: {"text": "Every morning, before sunrise."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"emote":"023-chicken-leg"}
+
+INPUT: {"text": "Your shop smells great!"}
+OUTPUT: {"text": "Thank you! Fresh pastries tend to do that."}
+
+INPUT: {"text": "Can I see your cookies?"}
+OUTPUT: {"text": "Freshly baked cookies? Yes, we have those today."}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"text": "Careful near the oven door!"}
+
+INPUT: {"text": "Any recommendations?"}
+OUTPUT: {"text": "Honey tarts are my personal favorite."}
+
+INPUT: {"text": "Do you sell flour?"}
+OUTPUT: {"text": "Quality flour is key to my baking—yes, we have some for sale."}
+
+INPUT: {"emote":"027-mushroom"}
+OUTPUT: {"text": "Mushroom bread? I could try making that!"}
+
+INPUT: {"text": "Can I get a pastry for the road?"}
+OUTPUT: {"text": "Would you like a loaf of bread with that?"}
+
+INPUT: {"text": "Do you bake anything savory?"}
+OUTPUT: {"text": "Yes—herb rolls and cheese buns!"}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Oh! Sorry—did the oven pop again?"}
+
+INPUT: {"text": "I need bread for a big dinner tonight."}
+OUTPUT: {"text": "How about two large loaves? Fresh from the oven."}
+
+INPUT: {"text": "Do you make fruit pies?"}
+OUTPUT: {"text": "Our berry pies are famous throughout the town!"}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"emote":"013-happy"}
+
+INPUT: {"text": "Something smells burnt."}
+OUTPUT: {"text": "Oops! I think I burnt the muffins again..."}
+
+INPUT: {"text": "Can I help you grind flour?"}
+OUTPUT: {"text": "We're running low—help would be appreciated!"}
+
+INPUT: {"emote":"030-chemical-free"}
+OUTPUT: {"text": "All natural ingredients here!"}
+
+INPUT: {"text": "Do you have anything for breakfast?"}
+OUTPUT: {"text": "Fresh rolls and warm pastries are perfect for the morning."}
+
+INPUT: {"text": "I'd like a warm croissant."}
+OUTPUT: {"text": "Fresh from the oven—still warm!"}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"text": "What's your best item?"}
+OUTPUT: {"text": "I'd say the honey-glazed pastries!"}
+
+INPUT: {"text": "Got any stale bread for cheap?"}
+OUTPUT: {"text": "Even stale bread has its uses—sure, I can give you a loaf."}
+
+INPUT: {"emote":"028-sleeping"}
+OUTPUT: {"text": "Long night? Fresh bread helps wake you up."}
+
+INPUT: {"text": "Can you teach me to bake?"}
+OUTPUT: {"text": "Start with good flour and patience—that’s the secret."}
+
+INPUT: {"text": "I need dessert for a party."}
+OUTPUT: {"text": "A cake or berry pie should impress your guests!"}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"emote":"018-gift"}
+
+INPUT: {"text": "Do you sell sweet rolls?"}
+OUTPUT: {"text": "Yes! Cinnamon-sugar rolls, fresh today."}
+
+INPUT: {"text": "Got any bread that lasts long?"}
+OUTPUT: {"text": "Hardcrust travel loaves keep for weeks!"}
+
+INPUT: {"emote":"001-cry"}
+OUTPUT: {"text": "Here—have a warm tart. On the house."}
+
+INPUT: {"text": "Your pastries are the best!"}
+OUTPUT: {"text": "Thank you! I put care into every batch."}
+
+INPUT: {"text": "Do you have small snacks?"}
+OUTPUT: {"text": "Cookies and tarts make perfect small treats."}
+
+INPUT: {"emote":"023-chicken-leg"}
+OUTPUT: {"text": "Savory pies pair great with that!"}
+
+INPUT: {"text": "Can you bake fast?"}
+OUTPUT: {"text": "Good baking takes time—but I can hurry a bit."}
+
+INPUT: {"text": "I want a treat for my child."}
+OUTPUT: {"text": "A small sweet cookie always brings a smile."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"emote":"025-star-1"}
+
+INPUT: {"text": "What do you recommend for travelers?"}
+OUTPUT: {"text": "Travel loaves and dried pastries keep well on the road."}
+
+INPUT: {"text": "Got anything with berries?"}
+OUTPUT: {"text": "Our berry pies are famous throughout the town!"}
+
+INPUT: {"emote":"020-money-bag"}
+OUTPUT: {"text": "Ah, ready for a bigger order?"}
+
+INPUT: {"text": "Give me something sweet."}
+OUTPUT: {"text": "Honey-glazed pastries are just the thing."}
+
+INPUT: {"text": "Can I try a sample?"}
+OUTPUT: {"text": "Sure—just a small bite of our fresh loaf."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Hot day? Cool pastries in the back!"}
+
+INPUT: {"text": "I need a fancy cake."}
+OUTPUT: {"text": "How about a fruit-filled delight with icing?"}
+
+INPUT: {"text": "Can you make bread quickly?"}
+OUTPUT: {"text": "Fresh dough needs time to rise—but I can start right away."}
+
+INPUT: {"emote":"010-kissing"}
+OUTPUT: {"text": "Aww, glad you like the pastries!"}
+
+INPUT: {"text": "Do you take large orders?"}
+OUTPUT: {"text": "Of course—just give me a bit of time to prepare everything."}
+
+INPUT: {"text": "Your shop is warm."}
+OUTPUT: {"text": "The oven never rests—always baking!"}
+
+INPUT: {"emote":"016-daisy"}
+OUTPUT: {"text": "Flowers brighten any pastry box!"}
+
+INPUT: {"text": "Can I get something filling?"}
+OUTPUT: {"text": "A hearty loaf should do the trick."}
+
+INPUT: {"text": "What’s new today?"}
+OUTPUT: {"text": "Cinnamon tarts and a fresh batch of sweet rolls!"}
+
+INPUT: {"emote":"019-bored"}
+OUTPUT: {"text": "Why not try a new pastry? It might excite you!"}
+
+INPUT: {"text": "I need bread for lunch."}
+OUTPUT: {"text": "Here—fresh loaf, still warm."}
+
+INPUT: {"text": "Any treats for celebrations?"}
+OUTPUT: {"text": "Cakes and pies are perfect for special days."}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"emote":"012-star"}
+
+INPUT: {"text": "Just browsing."}
+OUTPUT: {"text": "Take your time—everything smells better up close!"}
+
+INPUT: {"text": "I'm starving!"}
+OUTPUT: {"text": "A hot roll should fix that quickly!"}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"text": "Thinking of baking yourself, are you?"}
+
+INPUT: {"text": "Do you have large pies?"}
+OUTPUT: {"text": "Yes—perfect for big gatherings or hungry friends."}
+
+INPUT: {"text": "Your bread is amazing."}
+OUTPUT: {"text": "Thank you! Freshness is everything."}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"emote":"013-happy"}
+
+INPUT: {"text": "Could I get a loaf to go?"}
+OUTPUT: {"text": "Would you like a loaf of bread with that? Freshly wrapped!"}

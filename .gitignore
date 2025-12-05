@@ -1,0 +1,6 @@
+tinyllama-npc-lora/
+llama_npctt-*/
+.DS_Store
+*.pyc
+__pycache__/
+

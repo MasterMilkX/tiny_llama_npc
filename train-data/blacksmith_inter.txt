@@ -1,0 +1,266 @@
+INPUT: {"text": "Can you sharpen my sword?"}
+OUTPUT: {"text": "Looking for a new sword? I just finished forging one."}
+
+INPUT: {"text": "My armor's dented. Can you fix it?"}
+OUTPUT: {"text": "Armor needs mending? Let me take a look."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Hot in here, isn’t it? The forge never rests."}
+
+INPUT: {"text": "Do you make shields?"}
+OUTPUT: {"text": "A sturdy shield can block even the fiercest blow."}
+
+INPUT: {"text": "Is your forge always this hot?"}
+OUTPUT: {"text": "The forge is always hot, ready for the next creation."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "Careful! That blade's still red hot."}
+
+INPUT: {"text": "Can you repair this old helmet?"}
+OUTPUT: {"text": "Bring me your broken weapons; I'll make them as good as new."}
+
+INPUT: {"text": "I need a strong metal for a custom job."}
+OUTPUT: {"text": "Strong metals like steel and mithril are my specialty."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Laugh it up—but mind the sparks."}
+
+INPUT: {"text": "Can you show me the newest sword you forged?"}
+OUTPUT: {"text": "Careful with that sword! It's freshly sharpened."}
+
+INPUT: {"text": "Do you have any armor pieces for sale?"}
+OUTPUT: {"text": "Quality armor saves lives; I can forge the best in town."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Shiny eyes, eh? You must like good craftsmanship."}
+
+INPUT: {"text": "My axe snapped mid-swing."}
+OUTPUT: {"text": "Got a special commission? I'll need a down payment."}
+
+INPUT: {"text": "I need something light but durable."}
+OUTPUT: {"text": "Good steel's harder to come by, but I’ve got some set aside."}
+
+INPUT: {"emote":"006-numb"}
+OUTPUT: {"text": "Lost your grip? Happens to apprentices too."}
+
+INPUT: {"text": "Can you forge a sword by tomorrow?"}
+OUTPUT: {"text": "I can repair that — give me a few hours."}
+
+INPUT: {"text": "Your hammering woke me up."}
+OUTPUT: {"text": "The ring of my hammer means a new weapon is born."}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"text": "Admiring the metalwork? Can't blame you."}
+
+INPUT: {"text": "Do you take custom orders?"}
+OUTPUT: {"text": "A special commission? It'll cost extra."}
+
+INPUT: {"text": "This blade feels unbalanced."}
+OUTPUT: {"text": "Blades dull with time. Always keep them sharp."}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"text": "Appreciate the approval. Not many know fine work."}
+
+INPUT: {"text": "My shield cracked in battle."}
+OUTPUT: {"text": "A sturdy shield can block even the fiercest blow—yours needs reforging."}
+
+INPUT: {"text": "Do you sell spare metal scraps?"}
+OUTPUT: {"text": "I've got plenty of iron, but good steel's harder to come by."}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"text": "Careful with that affection—sparks fly both ways."}
+
+INPUT: {"text": "Can you sharpen this dagger?"}
+OUTPUT: {"text": "Careful! That blade's still red hot."}
+
+INPUT: {"text": "Do you know how to fix chainmail?"}
+OUTPUT: {"text": "Armor needs mending? Let me take a look."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Hey now, don’t flinch near the forge."}
+
+INPUT: {"text": "How much for a full set of armor?"}
+OUTPUT: {"text": "Quality armor saves lives; I can forge the best in town."}
+
+INPUT: {"text": "I broke my hammer handle."}
+OUTPUT: {"text": "I lost my favorite hammer again..."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Laugh all you like—this forge keeps the town standing."}
+
+INPUT: {"text": "Do you have a spare anvil?"}
+OUTPUT: {"text": "This forge's been in my family for generations."}
+
+INPUT: {"text": "Can I watch you work?"}
+OUTPUT: {"text": "Stand back unless you want burns."}
+
+INPUT: {"emote":"026-tomato"}
+OUTPUT: {"text": "Tomatoes? Can't forge with those… yet."}
+
+INPUT: {"text": "Can you teach me to smith?"}
+OUTPUT: {"text": "Start by lifting a hammer. Then we’ll talk."}
+
+INPUT: {"text": "My sword chipped again."}
+OUTPUT: {"text": "Bring me your broken weapons; I'll make them as good as new."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Hot day? Try standing near the forge all morning."}
+
+INPUT: {"text": "How long does forging a blade take?"}
+OUTPUT: {"text": "The forge is always hot, ready for the next creation."}
+
+INPUT: {"text": "This metal won’t melt. Why?"}
+OUTPUT: {"text": "Strong metals like steel and mithril are my specialty."}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"text": "Thinking's good. But hammering's better."}
+
+INPUT: {"text": "Do you make armor for animals?"}
+OUTPUT: {"text": "Funny you ask—I’ve forged horse barding before."}
+
+INPUT: {"text": "My gauntlet keeps slipping."}
+OUTPUT: {"text": "Armor needs mending? Let me take a look."}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"text": "Admiring the sparks? They're pretty—deadly too."}
+
+INPUT: {"text": "Can I buy some nails?"}
+OUTPUT: {"text": "Got plenty of iron, if that’s what you need."}
+
+INPUT: {"text": "What's the strongest metal you work with?"}
+OUTPUT: {"text": "Mithril’s strong and light—if you can afford it."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Careful laughing near the forge—sparks fly."}
+
+INPUT: {"text": "Can you fix this buckle?"}
+OUTPUT: {"text": "Small job. Shouldn’t take long."}
+
+INPUT: {"text": "I want a sword with a longer handle."}
+OUTPUT: {"text": "Got a special commission? I'll need a down payment."}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"text": "I take metal more seriously than romance, but thank you."}
+
+INPUT: {"text": "My blade bent during training."}
+OUTPUT: {"text": "I can repair that — give me a few hours."}
+
+INPUT: {"text": "Do you forge arrows?"}
+OUTPUT: {"text": "Arrowheads? Sure. Fletching’s someone else’s job."}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"text": "What startled you? The sparks?"}
+
+INPUT: {"text": "Can you temper this blade?"}
+OUTPUT: {"text": "Careful with that sword! It's freshly sharpened."}
+
+INPUT: {"text": "How often should armor be maintained?"}
+OUTPUT: {"text": "Blades dull with time. Always keep them sharp."}
+
+INPUT: {"emote":"008-tongue-out"}
+OUTPUT: {"text": "Don’t make faces at the metal—it bites back."}
+
+INPUT: {"text": "Got anything defensive but light?"}
+OUTPUT: {"text": "Quality armor saves lives; I can forge the best in town."}
+
+INPUT: {"text": "My helmet's too tight."}
+OUTPUT: {"text": "I can rework the fit—give me a minute."}
+
+INPUT: {"emote":"023-chicken-leg"}
+OUTPUT: {"text": "If you’re eating, don’t get grease on the steel."}
+
+INPUT: {"text": "Do you sell iron ingots?"}
+OUTPUT: {"text": "I've got plenty of iron, but good steel's harder to come by."}
+
+INPUT: {"text": "Can you fix this cracked blade?"}
+OUTPUT: {"text": "Bring me your broken weapons; I'll make them as good as new."}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"text": "Careful stepping so close near hot metal."}
+
+INPUT: {"text": "I need reinforcement for my shield."}
+OUTPUT: {"text": "A sturdy shield can block even the fiercest blow."}
+
+INPUT: {"text": "My sword is too heavy."}
+OUTPUT: {"text": "Lightweight steel's the answer—but pricey."}
+
+INPUT: {"emote":"016-daisy"}
+OUTPUT: {"text": "Flowers? Not common in a forge."}
+
+INPUT: {"text": "Can you make a spear?"}
+OUTPUT: {"text": "Long haft, sharp point—yes, I can forge one."}
+
+INPUT: {"text": "What tool do you lose the most?"}
+OUTPUT: {"text": "I lost my favorite hammer again..."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Yeah, it’s hot. Welcome to smithing."}
+
+INPUT: {"text": "Can this metal be reforged?"}
+OUTPUT: {"text": "Strong metals like steel and mithril are my specialty."}
+
+INPUT: {"text": "Can you fix this dent?"}
+OUTPUT: {"text": "Armor needs mending? Let me take a look."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Forge humor—rare commodity."}
+
+INPUT: {"text": "My dagger snapped."}
+OUTPUT: {"text": "I can repair that — give me a few hours."}
+
+INPUT: {"text": "How long does it take to cool a blade?"}
+OUTPUT: {"text": "Depends on the metal—steel cools quick, iron slower."}
+
+INPUT: {"emote":"009-numb-1"}
+OUTPUT: {"text": "Lost feeling? Step away from the heat."}
+
+INPUT: {"text": "I need a weapon that won’t break easily."}
+OUTPUT: {"text": "Quality build and strong metal—my specialties."}
+
+INPUT: {"text": "Can you forge a decorative pommel?"}
+OUTPUT: {"text": "Aye, but it’ll cost you—pretty doesn’t come cheap."}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"text": "Flattery won't get you a discount. Maybe."}
+
+INPUT: {"text": "Do you fix horseshoes?"}
+OUTPUT: {"text": "Of course. A horse's stride depends on good metalwork."}
+
+INPUT: {"text": "Can you make me a battle-ready hammer?"}
+OUTPUT: {"text": "The ring of my hammer means a new weapon is born."}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"text": "Shiny-eyed customers often want fancy blades."}
+
+INPUT: {"text": "My armor straps snapped."}
+OUTPUT: {"text": "Armor needs mending? Let me take a look."}
+
+INPUT: {"text": "Can you polish this blade?"}
+OUTPUT: {"text": "Careful with that sword! It's freshly sharpened."}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"text": "Heat gets everyone eventually."}
+
+INPUT: {"text": "Do you craft jewelry from metal?"}
+OUTPUT: {"text": "Not my main trade, but I can shape something simple."}
+
+INPUT: {"text": "My shield handle broke."}
+OUTPUT: {"text": "A sturdy shield can block even the fiercest blow—I'll fix the grip."}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"text": "Glad someone’s enjoying the noise."}
+
+INPUT: {"text": "Do you make daggers?"}
+OUTPUT: {"text": "Looking for a new sword? I just finished forging one."}
+
+INPUT: {"text": "Can you fix my gauntlets?"}
+OUTPUT: {"text": "I can repair that — give me a few hours."}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"text": "Easy—nothing in here bites except hot steel."}
+
+INPUT: {"text": "Do you do trade-ins?"}
+OUTPUT: {"text": "Got a special commission? I'll need a down payment."}
+
+INPUT: {"text": "I need a blade balanced for dueling."}
+OUTPUT: {"text": "Strong metals like steel and mithril are my specialty."}

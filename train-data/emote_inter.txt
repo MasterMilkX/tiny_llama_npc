@@ -1,0 +1,281 @@
+INPUT: {"emote":"001-cry"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"emote":"017-surprise"}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"emote":"030-chemical-free"}
+
+INPUT: {"emote":"004-big-smile"}
+OUTPUT: {"emote":"012-star"}
+
+INPUT: {"emote":"005-angry"}
+OUTPUT: {"emote":"021-close"}
+
+INPUT: {"emote":"006-numb"}
+OUTPUT: {"emote":"014-like"}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"emote":"002-frightened"}
+
+INPUT: {"emote":"008-tongue-out"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"009-numb-1"}
+OUTPUT: {"emote":"029-intelligent-emoji"}
+
+INPUT: {"emote":"010-kissing"}
+OUTPUT: {"emote":"002-frightened"}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"emote":"004-big-smile"}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"emote":"025-star-1"}
+
+INPUT: {"emote":"013-help"}
+OUTPUT: {"emote":"001-cry"}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"emote":"020-money-bag"}
+
+INPUT: {"emote":"015-gift"}
+OUTPUT: {"emote":"018-gift"}
+
+INPUT: {"emote":"016-daisy"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"emote":"005-angry"}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"emote":"030-chemical-free"}
+
+INPUT: {"emote":"019-mushroom"}
+OUTPUT: {"emote":"002-frightened"}
+
+INPUT: {"emote":"020-money-bag"}
+OUTPUT: {"emote":"004-big-smile"}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"emote":"007-sweat"}
+
+INPUT: {"emote":"022-axe"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"023-chicken-leg"}
+OUTPUT: {"emote":"008-tongue-out"}
+
+INPUT: {"emote":"024-tomato"}
+OUTPUT: {"emote":"019-mushroom"}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"emote":"012-star"}
+
+INPUT: {"emote":"026-beer"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"027-like"}
+OUTPUT: {"emote":"014-like"}
+
+INPUT: {"emote":"028-close"}
+OUTPUT: {"emote":"021-close"}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"emote":"012-star"}
+
+INPUT: {"emote":"030-chemical-free"}
+OUTPUT: {"emote":"017-surprise"}
+
+INPUT: {"emote":"001-cry"}
+OUTPUT: {"emote":"026-beer"}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"emote":"022-axe"}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"emote":"028-close"}
+
+INPUT: {"emote":"004-big-smile"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"emote":"005-angry"}
+OUTPUT: {"emote":"001-cry"}
+
+INPUT: {"emote":"006-numb"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"emote":"021-close"}
+
+INPUT: {"emote":"008-tongue-out"}
+OUTPUT: {"emote":"027-like"}
+
+INPUT: {"emote":"009-numb-1"}
+OUTPUT: {"emote":"028-close"}
+
+INPUT: {"emote":"010-kissing"}
+OUTPUT: {"emote":"016-daisy"}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"emote":"015-gift"}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"013-help"}
+OUTPUT: {"emote":"022-axe"}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"emote":"018-gift"}
+
+INPUT: {"emote":"015-gift"}
+OUTPUT: {"emote":"017-surprise"}
+
+INPUT: {"emote":"016-daisy"}
+OUTPUT: {"emote":"025-star-1"}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"emote":"007-sweat"}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"emote":"019-mushroom"}
+OUTPUT: {"emote":"013-help"}
+
+INPUT: {"emote":"020-money-bag"}
+OUTPUT: {"emote":"029-intelligent-emoji"}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"emote":"024-tomato"}
+
+INPUT: {"emote":"022-axe"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"023-chicken-leg"}
+OUTPUT: {"emote":"019-mushroom"}
+
+INPUT: {"emote":"024-tomato"}
+OUTPUT: {"emote":"022-axe"}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"emote":"014-like"}
+
+INPUT: {"emote":"026-beer"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"027-like"}
+OUTPUT: {"emote":"025-star-1"}
+
+INPUT: {"emote":"028-close"}
+OUTPUT: {"emote":"021-close"}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"emote":"004-big-smile"}
+
+INPUT: {"emote":"030-chemical-free"}
+OUTPUT: {"emote":"018-gift"}
+
+INPUT: {"emote":"001-cry"}
+OUTPUT: {"emote":"017-surprise"}
+
+INPUT: {"emote":"002-frightened"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"003-laugh"}
+OUTPUT: {"emote":"007-sweat"}
+
+INPUT: {"emote":"004-big-smile"}
+OUTPUT: {"emote":"016-daisy"}
+
+INPUT: {"emote":"005-angry"}
+OUTPUT: {"emote":"028-close"}
+
+INPUT: {"emote":"006-numb"}
+OUTPUT: {"emote":"001-cry"}
+
+INPUT: {"emote":"007-sweat"}
+OUTPUT: {"emote":"022-axe"}
+
+INPUT: {"emote":"008-tongue-out"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"009-numb-1"}
+OUTPUT: {"emote":"004-big-smile"}
+
+INPUT: {"emote":"010-kissing"}
+OUTPUT: {"emote":"011-heart"}
+
+INPUT: {"emote":"011-heart"}
+OUTPUT: {"emote":"010-kissing"}
+
+INPUT: {"emote":"012-star"}
+OUTPUT: {"emote":"029-intelligent-emoji"}
+
+INPUT: {"emote":"013-help"}
+OUTPUT: {"emote":"007-sweat"}
+
+INPUT: {"emote":"014-like"}
+OUTPUT: {"emote":"004-big-smile"}
+
+INPUT: {"emote":"015-gift"}
+OUTPUT: {"emote":"013-help"}
+
+INPUT: {"emote":"016-daisy"}
+OUTPUT: {"emote":"018-gift"}
+
+INPUT: {"emote":"017-surprise"}
+OUTPUT: {"emote":"019-mushroom"}
+
+INPUT: {"emote":"018-gift"}
+OUTPUT: {"emote":"025-star-1"}
+
+INPUT: {"emote":"019-mushroom"}
+OUTPUT: {"emote":"002-frightened"}
+
+INPUT: {"emote":"020-money-bag"}
+OUTPUT: {"emote":"027-like"}
+
+INPUT: {"emote":"021-close"}
+OUTPUT: {"emote":"028-close"}
+
+INPUT: {"emote":"022-axe"}
+OUTPUT: {"emote":"021-close"}
+
+INPUT: {"emote":"023-chicken-leg"}
+OUTPUT: {"emote":"008-tongue-out"}
+
+INPUT: {"emote":"024-tomato"}
+OUTPUT: {"emote":"014-like"}
+
+INPUT: {"emote":"025-star-1"}
+OUTPUT: {"emote":"012-star"}
+
+INPUT: {"emote":"026-beer"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"027-like"}
+OUTPUT: {"emote":"020-money-bag"}
+
+INPUT: {"emote":"028-close"}
+OUTPUT: {"emote":"002-frightened"}
+
+INPUT: {"emote":"029-intelligent-emoji"}
+OUTPUT: {"emote":"026-beer"}
+
+INPUT: {"emote":"030-chemical-free"}
+OUTPUT: {"emote":"015-gift"}
+
+INPUT: {"emote":"wave"}
+OUTPUT: {"emote":"001-cry"}
+
+INPUT: {"emote":"wave"}
+OUTPUT: {"emote":"wave"}
+
+INPUT: {"emote":"dance"}
+OUTPUT: {"emote":"003-laugh"}
+
+INPUT: {"emote":"dance"}
+OUTPUT: {"emote":"dance"}
